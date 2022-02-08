@@ -6,7 +6,7 @@
 - Windows 10 64bit
 - WPF C#
 - .Net 6
-- virtualdesktop.wpf nuget package
+- VirtualDesktop.WPF[!https://github.com/Grabacr07/VirtualDesktop] v5.0.5 NuGet Package
 
 ## 배포
 - 하지않습니다.
